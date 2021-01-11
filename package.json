@@ -1,6 +1,6 @@
 {
   "name": "@rohit-gta-tech/lotide",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lotide - A mini Clone of Lodash",
   "main": "assertArraysEqual.js",
   "directories": {
