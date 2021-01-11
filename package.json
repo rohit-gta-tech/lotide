@@ -1,7 +1,7 @@
 {
-  "name": "lotide",
+  "name": "@rohit-gta-tech/lotide",
   "version": "1.0.0",
-  "description": "Rohit Lotide library",
+  "description": "Lotide - A mini Clone of Lodash",
   "main": "assertArraysEqual.js",
   "directories": {
     "test": "test"
@@ -13,7 +13,10 @@
     "type": "git",
     "url": "git+https://github.com/rohit-gta-tech/lotide.git"
   },
-  "author": "Rohit Sharma",
+  "author": {"name" : "Rohit Sharma",
+     "email" : "rohitsharma1901@gmail.com",
+     "url" : "https://github.com/rohit-gta-tech/"
+    },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/rohit-gta-tech/lotide/issues"
