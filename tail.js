@@ -5,4 +5,4 @@ const tail = function(arr) {
 }
 
 
-module.exports = tail
+module.exports = tail;
